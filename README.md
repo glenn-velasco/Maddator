@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Glenn Velasco</h1>
-<h3 align="center">IT student in Philippines.</h3>
+<h3 align="center">IT student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Maddator&label=Profile%20views&color=0e75b6&style=flat" alt="Glenn Velasco" /> </p>
 
